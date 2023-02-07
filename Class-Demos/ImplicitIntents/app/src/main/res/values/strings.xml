@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="open_location">Open Location</string>
+    <string name="open_website">Open Website</string>
+    <string name="website">https://www.gannon.edu</string>
+    <string name="location">Gannon University</string>
+    <string name="share_this">Share This</string>
+    <string name="share_text">This is a sample text that I would like to share</string>
+</resources>
